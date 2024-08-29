@@ -1,0 +1,3 @@
+Hello, world!
+Writing some more data...
+Stream ended.
